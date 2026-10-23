@@ -1,0 +1,8 @@
+[2026-10-23 02:25:25,854] INFO [Broker id=1] Transitioning 2 partition(s) to local followers. (state.change.logger)
+[2026-10-23 02:25:25,858] INFO [Broker id=1] Follower data-kualitas-udara-0 starts at leader epoch 3 from offset 130 with partition epoch 3 and high watermark 130. Current leader is -1. Previous leader Some(1) and previous leader epoch was 2. (state.change.logger)
+[2026-10-23 02:25:25,860] INFO [Broker id=1] Follower data-cuaca-0 starts at leader epoch 3 from offset 131 with partition epoch 3 and high watermark 131. Current leader is -1. Previous leader Some(1) and previous leader epoch was 2. (state.change.logger)
+[2026-10-23 02:25:25,861] INFO [Broker id=1] Stopped fetchers as part of become-follower for 2 partitions (state.change.logger)
+[2026-10-23 02:25:25,861] INFO [Broker id=1] Started fetchers as part of become-follower for 2 partitions (state.change.logger)
+[2026-10-23 02:25:27,004] INFO [Broker id=1] Transitioning 2 partition(s) to local leaders. (state.change.logger)
+[2026-10-23 02:25:28,035] INFO [Broker id=1] Leader data-kualitas-udara-0 with topic id Some(YWFzufoqQGC39odwhZjjdA) starts at leader epoch 4 from offset 130 with partition epoch 4, high watermark 130, ISR [1], adding replicas [] and removing replicas [] . Previous leader Some(-1) and previous leader epoch was 3. (state.change.logger)
+[2026-10-23 02:25:28,049] INFO [Broker id=1] Leader data-cuaca-0 with topic id Some(w7ijgN23RJuBSRoUUF9DWA) starts at leader epoch 4 from offset 131 with partition epoch 4, high watermark 131, ISR [1], adding replicas [] and removing replicas [] . Previous leader Some(-1) and previous leader epoch was 3. (state.change.logger)
